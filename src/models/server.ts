@@ -1,5 +1,4 @@
 // src/models/server.ts
-
 import express, { Application } from 'express';
 import cors from 'cors';
 import sqlRoutes from '../routes/sqlRoutes';
